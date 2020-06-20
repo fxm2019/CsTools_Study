@@ -95,15 +95,14 @@ ___________
 
 代码区块使用 4 个空格或者一个制表符（Tab 键）。
 
->
->
->​    < ?php 
->
->​	echo 'RUNOOB';
->
->​	function test(){
->
->​		echo 'test';
+```php
+< ?php 
+echo 'RUNOOB';
+function test(){
+	echo 'test';
+```
+
+
 
 ~~~javascript
 ```javascript
@@ -142,11 +141,11 @@ ________
 
 ## 6. Markdown 图片
 
-![Markdown 图片实例](G:\Markdown\Mdpic\插入图片.jpg)
+![Markdown 图片实例](https://github.com/fxm2019/CsTools_Study/tree/master/Markdown/Mdpic/插入图片.jpg)
 
 Markdown 还没有办法指定图片的高度与宽度，如果你需要的话，你可以使用普通的 <img> 标签
 
-![设置宽度](G:\Markdown\Mdpic\图片插入.jpg)
+![设置宽度](https://github.com/fxm2019/CsTools_Study/tree/master/Markdown/Mdpic/图片插入.jpg)
 
 _____
 
@@ -154,7 +153,7 @@ _____
 
 Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔表头和其他行。
 
-![](G:\Markdown\Mdpic\表格.png)
+![](https://github.com/fxm2019/CsTools_Study/tree/master/Markdown/Mdpic/表格.png)
 
 | 表头   | 表头   |
 | ------ | ------ |
@@ -171,7 +170,7 @@ Markdown 制作表格使用 | 来分隔不同的单元格，使用 - 来分隔�
 - :- 设置内容和标题栏居左对齐。
 - :-: 设置内容和标题栏居中对齐。
 
-![对齐](G:\Markdown\Mdpic\表格对齐.png)
+![对齐](https://github.com/fxm2019/CsTools_Study/tree/master/Markdown/Mdpic/表格对齐.png)
 
 | 左对齐 | 右对齐 | 居中对齐 |
 | :----- | -----: | :------: |
@@ -202,7 +201,7 @@ Markdown 使用了很多特殊符号来表示特定的意义，如果需要显�
 
 Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
 
-![转移符号](G:\Markdown\Mdpic\转义符号.png)
+![转移符号](https://github.com/fxm2019/CsTools_Study/tree/master/Markdown/Mdpic/转义符号.png)
 
 #### 公式
 
